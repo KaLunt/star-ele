@@ -4,6 +4,8 @@ module.exports = {
       alias: {
         assets: '@/assets',
         components: '@/components',
+        common:'components/common',
+        content:'components/content',
         views: '@/views'
       }
     }
